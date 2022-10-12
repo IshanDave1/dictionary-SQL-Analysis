@@ -1,3 +1,7 @@
+# Inspiration
+
+The project is inspired from the following [reddit comment](https://www.reddit.com/r/SQL/comments/g4ct1l/what_are_some_good_resources_to_practice_sql/)
+
 # Data
 The [data](https://www.kaggle.com/datasets/dfydata/the-online-plain-text-english-dictionary-opted) is taken from kaggle. I have truncated character count and Part of Speech columns. 
 
