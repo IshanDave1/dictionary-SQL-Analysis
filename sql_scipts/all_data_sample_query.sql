@@ -1,2 +1,6 @@
-/*just a query to look at the data*/
-select * from word_meaning limit 10;
+/*just a query to look at the data */
+SELECT 
+    *
+FROM
+    word_meaning
+LIMIT 10;
